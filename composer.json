@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-fancybox-plus",
+    "description": "[Larakit] [staticfiles] angular-fancybox-plus",
+    "version": "1.5.9",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-angular":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
